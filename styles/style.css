@@ -1,0 +1,20 @@
+.header{
+              font-weight: bold;
+              background-image: url("images (1).jpg");
+              background-repeat: no-repeat;
+              background-size:cover;
+              background-position: top right;
+              width: 100%;
+              color: white;
+              height: 500px;
+}
+#indentify{
+              text-align: center;
+}
+div{
+              border: 2px solid red;
+              margin: 50px 0px 0px 0px ;
+              height: 150px;
+              padding: 10px;
+              font-size: 15px;
+}
